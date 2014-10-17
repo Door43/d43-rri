@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rri:home|Door43 (rri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rri|d43-rri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rri/archive/master.zip|d43-rri.zip]]
+
+**Recent Changes**
+{{changes>ns = rri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rri|Ethnologue data]]
+
